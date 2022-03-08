@@ -1,0 +1,14 @@
+Math
+
+Math.sqrt(n): raiz cuadrada de n.
+
+Math.pow(base, exponente): potencia de un numero. Base y exponente son doubles.
+
+Math.sin(angulo); Math.cos(angulo); Math.tan(angulo); Math.atan(angulo).
+
+Math.round(decimal): redondeo.
+
+Math.PI: constante de la clase con el numero PI.
+
+Refundiciones: int raiz = (int)Math.round(num1) Convierte el long en int.
+
