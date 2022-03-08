@@ -1,0 +1,7 @@
+Metodos salida
+
+println: salto de linea.
+
+print: sin salto de linea.
+
+printf("%1,n", variable): print con formato donde n es la cantidad de decimales que aparecera.

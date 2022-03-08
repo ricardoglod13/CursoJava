@@ -1,0 +1,15 @@
+String
+
+length(): Devuelve la longitud de una cadena de caracteres.
+
+charAt(n): Devuelve la posicion de un caracter dentro de un cadena. Desde 0.
+
+substring(x,y): Devuelve una subcadena dentro de la cadena, siendo X el caracter a partir del cual se extrae 
+		e Y el numero decaracteres que se quieren extraer. 
+
+equals(cadena): Devuelve True si dos cadenas que se conparan son iguales y False si no lo son. 
+		Distingue mayusculas y minusculas.
+
+equalsIgnoreCase(cadena): Devuelve True si dos cadenas que se conparan son iguales y False si no lo son. 
+			  No distingue mayusculas y minusculas.
+

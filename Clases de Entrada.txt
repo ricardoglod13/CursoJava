@@ -1,0 +1,11 @@
+Scanner
+
+Scanner variable = new Scanner(System.in);
+
+nextLine(): Caracteres
+
+nextInt(): Enteros
+
+nextDouble(): Double
+
+JOptionPane.showInputDialog(Mensaje): Devuelve un String

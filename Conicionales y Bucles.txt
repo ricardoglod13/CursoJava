@@ -1,0 +1,12 @@
+Condicionales
+
+if(condicion){}: Si se cumple la condicion se ejecuta el codigo.
+
+else: acompaña al if pero no es obligatorio.
+
+switch(valor a evaluar){
+
+	Case n(Casos):
+}
+
+default: esta opcion puede acompañar al switch pero no es obligatoria.
